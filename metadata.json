@@ -1,0 +1,6 @@
+{
+  "name": "Cabinet Marc Aillou — Expertise Comptable Paris 17",
+  "description": "Refonte premium du site vitrine du cabinet d'expertise comptable Marc Aillou (Paris 17e). Conseil stratégique, tenue, bilan, paie, création et domiciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
